@@ -15,7 +15,7 @@ download backup
 
 preview
 <h1 align="center">Hi 👋, I'm Abhinav Shrivastav</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavshrivastav12&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavshrivastav12" /> </p>
 
@@ -27,8 +27,7 @@ preview
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbhinavShrivastav12](https://github.com/AbhinavShrivastav12)
 
-- 😄 Hobby [I love to read animal encyclopedia and cooking too.](I love to read animal encyclopedia and cooking too.)
-
+- 😄 Hobby [I love to read animal encyclopedia and cooking too.]
 - 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **abhinavshrivastav147@gmail.com**
