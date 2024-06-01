@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abhinav_shri_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhinav_shri_1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhinav shrivastav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav shrivastav" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhinav shrivastav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhinav-shrivastav-8797992b3" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/abhinav shrivastav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abhinav shrivastav" height="30" width="40" /></a>
 <a href="https://instagram.com/abhinavshrivastav909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhinavshrivastav909" height="30" width="40" /></a>
 </p>
